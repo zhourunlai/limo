@@ -1,6 +1,6 @@
 ---
-title: "搭建 NFT MEV Bot"
-date: 2022-07-06T11:30:03+00:00
+title: "搭建 NFT 自动做市商"
+date: 2022-07-13T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["crypto"]

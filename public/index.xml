@@ -9,11 +9,20 @@
       <link>https://xiaorun.eth.limo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://xiaorun.eth.limo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://xiaorun.eth.limo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建 NFT 自动做市商</title>
+      <link>https://xiaorun.eth.limo/posts/nft-market-maker/</link>
+      <pubDate>Wed, 13 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://xiaorun.eth.limo/posts/nft-market-maker/</guid>
+      <description>开始写吧.</description>
+    </item>
+    
     <item>
       <title>搭建 NFT MEV Bot</title>
       <link>https://xiaorun.eth.limo/posts/nft-mev-bot/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Wed, 06 Jul 2022 11:30:03 +0000</pubDate>
       
       <guid>https://xiaorun.eth.limo/posts/nft-mev-bot/</guid>
       <description>开始写吧.</description>
