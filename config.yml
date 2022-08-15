@@ -19,15 +19,15 @@ params:
   title: xiaorun blog
   description: "xiaorun description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  # author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 5, 2022"
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  # DateFormat: "January 5, 2022"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -79,8 +79,6 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/xiaorun95"
-    - name: github
-      url: "https://github.com/zhourunlai"
 
   analytics:
     google:
@@ -95,10 +93,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/zhourunlai/limo/blob/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
