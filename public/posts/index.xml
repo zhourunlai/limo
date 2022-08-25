@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on xiaorun&#39;s website</title>
+    <link>https://xiaorun.eth.limo/posts/</link>
+    <description>Recent content in Posts on xiaorun&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jul 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://xiaorun.eth.limo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BUIDL NFT AMM BOT</title>
+      <link>https://xiaorun.eth.limo/posts/nft-amm-bot/</link>
+      <pubDate>Wed, 13 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://xiaorun.eth.limo/posts/nft-amm-bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BUIDL NFT MEV BOT</title>
+      <link>https://xiaorun.eth.limo/posts/nft-mev-bot/</link>
+      <pubDate>Wed, 06 Jul 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://xiaorun.eth.limo/posts/nft-mev-bot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
