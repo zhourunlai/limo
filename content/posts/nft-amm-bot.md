@@ -25,3 +25,6 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
+
+
+👉  https://booot.xyz

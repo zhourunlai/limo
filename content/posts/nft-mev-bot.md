@@ -25,3 +25,5 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 ---
+
+👉  https://gist.github.com/0xBooot/4374f81f0b5667368b95c1138d4a1c7a
