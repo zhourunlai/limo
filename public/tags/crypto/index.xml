@@ -16,7 +16,7 @@
 2. Choose local or cloud Local: #stakefromhome
 Cloud: ovh adv-1
 3. Install wget https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-linux-amd64 -O ~/bin/rocketpool chmod +x ~/bin/rocketpool rocketpool service install 4. Choose client https://client-diversity.netlify.app/
-   Eth1 client Type CPU Usage Minimum RAM Usage Sync Time     Geth Full Moderate 4 GB Moderate   Besu Full Moderate 8 GB Slow   Nethermind Full Moderate 16 GB Fast       Eth2 client CPU Usage Minimum RAM Usage Sync Time     Lighthouse Moderate 2 GB Moderate (normal sync) Instant with checkpoint sync   Nimbus Low 0.</description>
+Eth1 client Type CPU Usage Minimum RAM Usage Sync Time Geth Full Moderate 4 GB Moderate Besu Full Moderate 8 GB Slow Nethermind Full Moderate 16 GB Fast Eth2 client CPU Usage Minimum RAM Usage Sync Time Lighthouse Moderate 2 GB Moderate (normal sync) Instant with checkpoint sync Nimbus Low 0.</description>
     </item>
     
     <item>
