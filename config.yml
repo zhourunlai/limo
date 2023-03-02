@@ -1,6 +1,6 @@
 baseURL: "https://xiaorun.eth.limo/"
-title: xiaorun's website
-paginate: 5
+title: xiaorun.eth.limo
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: xiaorun's website
+  title: xiaorun.eth.limo
   # description: "xiaorun description"
   keywords: [Blog, Portfolio, PaperMod]
   # author: Me
