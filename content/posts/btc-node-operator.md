@@ -98,5 +98,12 @@ wget https://github.com/casey/ord/releases/download/0.5.1/ord-0.5.1-x86_64-unkno
 
 ### 2.3 inscribe
 ```shell
+inscription.txt
+{
+    "p": "sns",
+    "op": "reg",
+    "name": "xiaorun.sats",
+}
+
 ./ord wallet inscribe <FILE> --fee-rate <FEE_RATE>
 ```
