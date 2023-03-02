@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on xiaorun&#39;s website</title>
     <link>https://xiaorun.eth.limo/posts/</link>
@@ -7,16 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 10 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://xiaorun.eth.limo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BUIDL NODE OPERATOR</title>
-      <link>https://xiaorun.eth.limo/posts/node-operator/</link>
+      <title>BUIDL ETH NODE OPERATOR</title>
+      <link>https://xiaorun.eth.limo/posts/eth-node-operator/</link>
       <pubDate>Sat, 10 Sep 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://xiaorun.eth.limo/posts/node-operator/</guid>
+      <guid>https://xiaorun.eth.limo/posts/eth-node-operator/</guid>
       <description>1. Introduction https://rocketpool.net/node-operators
 2. Choose local or cloud Local: #stakefromhome
 Cloud: ovh adv-1
 3. Install wget https://github.com/rocket-pool/smartnode-install/releases/latest/download/rocketpool-cli-linux-amd64 -O ~/bin/rocketpool chmod +x ~/bin/rocketpool rocketpool service install 4. Choose client https://client-diversity.netlify.app/
-Eth1 client Type CPU Usage Minimum RAM Usage Sync Time Geth Full Moderate 4 GB Moderate Besu Full Moderate 8 GB Slow Nethermind Full Moderate 16 GB Fast Eth2 client CPU Usage Minimum RAM Usage Sync Time Lighthouse Moderate 2 GB Moderate (normal sync) Instant with checkpoint sync Nimbus Low 0.</description>
+   Eth1 client Type CPU Usage Minimum RAM Usage Sync Time     Geth Full Moderate 4 GB Moderate   Besu Full Moderate 8 GB Slow   Nethermind Full Moderate 16 GB Fast       Eth2 client CPU Usage Minimum RAM Usage Sync Time     Lighthouse Moderate 2 GB Moderate (normal sync) Instant with checkpoint sync   Nimbus Low 0.</description>
     </item>
     
     <item>

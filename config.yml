@@ -79,8 +79,6 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/0xiaorun"
-    - name: website
-      url: "https://rainbow.me/xiaorun.eth"
 
   analytics:
     google:
